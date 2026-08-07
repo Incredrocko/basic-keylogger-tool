@@ -4,7 +4,7 @@
 The primary goal of this project was to understand the mechanics of keystroke logging from a cybersecurity perspective. By developing this tool, I explored how malware interacts with operating system APIs to intercept user input and how to develop effective defensive countermeasures.
 
 ## 🏗️ Tech Stack
-* **Language:** C / C++ (WinAPI)
+* **Language:** Python (WinAPI)
 * **Environment:** Windows OS
 * **Analysis Tools:** Process Monitor, Wireshark (for behavioral mapping)
 
